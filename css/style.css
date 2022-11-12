@@ -35,6 +35,11 @@ body{
     border-radius: 5px;
     background-color: rgb(103, 103, 199);
 }
+h1{
+    text-align: center;
+    margin-top: 3%;
+    color: rgb(74, 23, 123);
+}
 @media (max-width:768px){
     .main{
         width: 100%;    
@@ -47,6 +52,9 @@ body{
     h2{
         width: 100%;
         font-size: 14.3px
+    }
+    body{
+        width: 100%
     }
    
 };
